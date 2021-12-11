@@ -1,0 +1,6 @@
+{
+    "name": "rmxmedia/claim",
+    "description": "Claim repository",
+    "type": "metapackage",
+    "require": {}
+}
