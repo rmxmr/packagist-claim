@@ -1,6 +1,6 @@
 {
     "name": "rmxmedia/claim",
-    "description": "Claim repository",
+    "description": "Empty package to claim vendor name",
     "type": "metapackage",
     "require": {}
 }
